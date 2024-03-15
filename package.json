@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "proyectobackend",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antonella-VilaSuarez/Proyecto-Backend-53130.git"
+  },
+  "keywords": [
+    "super-online"
+  ],
+  "author": "Antonella Macarena Vila Suarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antonella-VilaSuarez/Proyecto-Backend-53130/issues"
+  },
+  "homepage": "https://github.com/Antonella-VilaSuarez/Proyecto-Backend-53130#readme"
+}

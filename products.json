@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Arroz",
+      "description": "Arroz blanco",
+      "price": 100,
+      "thumbnail": "sin-imagen",
+      "code": "XYZ123",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "title": "Fideos",
+      "description": "Fideos tallarines",
+      "price": 80,
+      "thumbnail": "sin-imagen",
+      "code": "XYZ456",
+      "stock": 40
+    },
+    {
+      "id": 3,
+      "title": "Aceite",
+      "description": "Aceite de girasol",
+      "price": 120,
+      "thumbnail": "sin-imagen",
+      "code": "XYZ789",
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "title": "Yerba Playadito",
+      "description": "Yerba mate para mate con palo",
+      "price": 150,
+      "thumbnail": "sin-imagen",
+      "code": "XYZ012",
+      "stock": 25
+    },
+    {
+      "id": 5,
+      "title": "Galletitas Toddy",
+      "description": "Galletas de chocolate",
+      "price": 200,
+      "thumbnail": "sin-imagen",
+      "code": "XYZ345",
+      "stock": 20
+    },
+    {
+      "id": 6,
+      "title": "Azúcar",
+      "description": "Azúcar mascabo",
+      "price": 50,
+      "thumbnail": "sin-imagen",
+      "code": "XYZ678",
+      "stock": 45
+    },
+    {
+      "id": 7,
+      "title": "Jugo",
+      "description": "Jugo multifruta",
+      "price": 180,
+      "thumbnail": "sin-imagen",
+      "code": "XYZ901",
+      "stock": 35
+    },
+    {
+      "id": 8,
+      "title": "Queso",
+      "description": "Queso cremoso",
+      "price": 250,
+      "thumbnail": "sin-imagen",
+      "code": "ABC123",
+      "stock": 15
+    },
+    {
+      "id": 9,
+      "title": "Yogur",
+      "description": "Yogur natural",
+      "price": 130,
+      "thumbnail": "sin-imagen",
+      "code": "ABC456",
+      "stock": 25
+    },
+    {
+      "id": 10,
+      "title": "Manteca Primer Premio",
+      "description": "Manteca de primera calidad",
+      "price": 220,
+      "thumbnail": "sin-imagen",
+      "code": "ABC789",
+      "stock": 30
+    }
+  ]
