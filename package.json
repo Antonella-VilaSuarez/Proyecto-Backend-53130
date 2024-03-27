@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Antonella-VilaSuarez/Proyecto-Backend-53130/issues"
   },
-  "homepage": "https://github.com/Antonella-VilaSuarez/Proyecto-Backend-53130#readme"
+  "homepage": "https://github.com/Antonella-VilaSuarez/Proyecto-Backend-53130#readme",
+  "dependencies": {
+    "express-handlebars": "^7.1.2",
+    "socket.io": "^4.7.5"
+  }
 }

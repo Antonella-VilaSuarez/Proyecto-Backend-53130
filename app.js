@@ -54,3 +54,4 @@ app.get('/products/:id', async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Escuchando en PUERTO => ${PORT}`)
 })
+const io = socket(httpserver); 
